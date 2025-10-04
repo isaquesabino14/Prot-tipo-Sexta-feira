@@ -1,0 +1,66 @@
+<title>Trilha Fullstack</title> <style> corpo { font-family: 'Segoe UI', sans-serif; cor de fundo: #f4f4f4; margem: 0; preenchimento: 0; }
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  margin-bottom: 30px;
+  padding: 20px;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card img {
+  max-width: 100%;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+h2 {
+  color: #444;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+button.toggle-btn {
+  background-color: #333;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button.toggle-btn:hover {
+  background-color: #555;
+}
+
+.content {
+  display: none;
+  margin-top: 15px;
+}
+
+.price {
+  font-weight: bold;
+  color: #008000;
+  margin-top: 10px;
+}
+</estilo>
